@@ -1,0 +1,18 @@
+html {
+  @font-face {
+    font-family: Poppins;
+    src: url(webfonts/poppins/Poppins-Light.ttf);
+  }
+}
+body {
+  font-family: Poppins;
+  margin: auto;
+}
+
+#home {
+  background-color: #333157;
+}
+.home-img {
+  width: 200px;
+  height: 200px;
+}
